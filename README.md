@@ -36,7 +36,7 @@ In Tier-2 Indian cities, delivery delays and failures often result from poor hub
 
 - **Suggested Hub Locations**
 <img src="images/Suggested Hub Locations- nagpur.png" width="600">
-<img src="Suggested Hub Locations- nashik.png" width="600">
+<img src="images/Suggested Hub Locations- nashik.png" width="600">
 
 ---
 
