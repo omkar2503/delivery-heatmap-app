@@ -33,18 +33,18 @@ In Tier-2 Indian cities, delivery delays and failures often result from poor hub
 
 
 ![image](https://github.com/user-attachments/assets/6936d0c1-c599-4a91-8792-a75e259645ee)
-![image](https://github.com/user-attachments/assets/6936d0c1-c599-4a91-8792-a75e259645ee)
+
 
 ![image](https://github.com/user-attachments/assets/96278f45-1c6f-4db2-9791-56f2d5b38eaf)
-![image](https://github.com/user-attachments/assets/96278f45-1c6f-4db2-9791-56f2d5b38eaf)
+
 
 - **Suggested Hub Locations**
 
 ![image](https://github.com/user-attachments/assets/fb913c0f-2f3d-418b-a4e7-ed6a2dfdf487)
-![image](https://github.com/user-attachments/assets/fb913c0f-2f3d-418b-a4e7-ed6a2dfdf487)
+
 
 ![image](https://github.com/user-attachments/assets/6f680b15-52fb-443b-8ab0-1ca94665799d)
-![image](https://github.com/user-attachments/assets/6f680b15-52fb-443b-8ab0-1ca94665799d)
+
 
 
 
@@ -67,9 +67,13 @@ In Tier-2 Indian cities, delivery delays and failures often result from poor hub
 
 ## 📂 Folder Structure
 data/ → Contains raw & processed CSVs
+
 notebooks/ → All Colab/Python notebooks
+
 images/ → Screenshots of maps/plots
+
 README.md → Project documentation
+
 requirements.txt → Python environment dependencies
 
 
